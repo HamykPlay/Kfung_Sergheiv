@@ -1,0 +1,12 @@
+.japFlag{
+    height: 1000px;
+    width: 1600px;
+    margin: auto;
+    background: radial-gradient(circle, rgba(245,0,0,1) 0%, rgba(245,0,0,1) 17%, rgba(255,255,255,1) 18%, rgba(254,227,227,1) 55%);
+}
+.img {
+    width: 50px;
+   /*  display: block; */
+    position: relative;
+    left: 100px;
+}
