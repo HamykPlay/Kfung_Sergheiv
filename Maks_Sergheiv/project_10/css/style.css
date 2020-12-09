@@ -1,0 +1,56 @@
+.base {
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 50px;
+}
+.cap {
+    background: linear-gradient( #4568DC, #B06AB3);
+    position: relative;
+    width: 450px;
+    height: 230px;
+    border-radius: 15px;
+    margin: 15px;
+}
+.iron {
+    background: linear-gradient( #e52d27, #93e9ff);
+    position: relative;
+    width: 450px;
+    height: 230px;
+    border-radius: 15px;
+    margin: 15px;
+}
+.widow {
+    background: linear-gradient( #000, #61045F);
+    position: relative;
+    width: 450px;
+    height: 230px;
+    border-radius: 15px;
+    margin: 15px;
+}
+.spider {
+    background: linear-gradient( #e52d27, #000);
+    position: relative;
+    width: 450px;
+    height: 230px;
+    border-radius: 15px;
+    margin: 15px;
+}
+h1,h2 {
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+    font-size: 12px;
+}
+img {
+    height: 250px;
+    position: absolute ; 
+    bottom: 0px;
+}
+.spider img {
+    top: 0px;
+}
+h2 {
+    color: rgba(255, 255, 255, 0.836);
+}
